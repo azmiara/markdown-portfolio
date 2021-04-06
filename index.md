@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: Azmi
 ---
 
 {% include 01-name.md %}
