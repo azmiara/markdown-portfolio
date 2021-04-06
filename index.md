@@ -2,7 +2,7 @@
 layout: default
 ---
 
-{% include 01-name.md %}
+{% Azmi.md %}
 
 <br>
 
